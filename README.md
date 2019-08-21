@@ -4,12 +4,12 @@
 TBD.
 
 ## Fridays For Future Global Map 
-[https://github.com/allforeco/fridaysforfuture/blob/master/fff-global-map.json?raw=true]
 [https://raw.githubusercontent.com/allforeco/fridaysforfuture/master/fff-global-map.json]
 
 ## Fridays For Future Global Trends
 [https://raw.githubusercontent.com/allforeco/fridaysforfuture/master/fff-global-trends.json]
 
 ## Fridays For Future Week For Future
-2019 September 20-27
+2019 September 20-27  
+
 [https://raw.githubusercontent.com/allforeco/fridaysforfuture/master/weekforfuture-map.json]
